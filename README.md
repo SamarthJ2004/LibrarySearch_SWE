@@ -70,9 +70,3 @@ cd backend && npm test -- --testPathPattern="integration"
 | Auth      | JWT |
 | Testing   | Jest + Supertest |
 | DevOps    | Docker Compose |
-
-<img width="1152" height="648" alt="image" src="https://github.com/user-attachments/assets/7f8871cc-3df8-498f-bd38-2d29735ea136" />
-
-<img width="1152" height="648" alt="image" src="https://github.com/user-attachments/assets/276548f4-3e08-4380-977b-6b6f8337683b" />
-
-
